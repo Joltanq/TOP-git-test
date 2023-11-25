@@ -3,3 +3,5 @@ adding a second line
 adding a third line
 adding 4
 add 5. git add without commiting and pushing will only add this line
+
+removing "add second line"
