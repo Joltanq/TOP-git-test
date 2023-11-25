@@ -3,4 +3,6 @@ adding a third line
 adding 4
 add 5. git add without commiting and pushing will only add this line
 
-removing "add second line"
+removing "add second line" 
+
+playing with git add. adding a lien to both this and the readme, but only adding one HW.txt file
